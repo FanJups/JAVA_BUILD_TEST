@@ -1,2 +1,1 @@
-# JAVA_BUILD_TEST
-test d action sur java
+## here I'm just training to be able to run my app via the action button🤴🤩
